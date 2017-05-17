@@ -45,7 +45,7 @@ def guanyador():
 			sortir=True
 		else:
 			print "Gana J2"
-			sortir=Tru
+			sortir=True
 
 	
 ############################################################################
